@@ -27,25 +27,25 @@
   <tr>
     <td align="center" width="96">
       <a href="#joshmccure-tech">
-        <img src="https://icons-for-free.com/download-icon-cypress-1324440144114984250_0.svg" width="48" height="48" alt="Cypress" />
+        <img src="./img/cypress.svg" width="48" height="48" alt="Cypress" />
       </a>
       <br>Cypress
     </td>
     <td align="center" width="96">
       <a href="#joshmccure-tech">
-        <img src="./img/" width="48" height="48" alt="Playwright" />
+        <img src="./img/playwright.svg" width="48" height="48" alt="Playwright" />
       </a>
       <br>Playwright
     </td>
     <td align="center" width="96">
       <a href="#joshmccure-tech">
-        <img src="./img/" width="48" height="48" alt="Testing Library" />
+        <img src="./img/testing-library.svg" width="48" height="48" alt="Testing Library" />
       </a>
       <br>Testing Library
     </td>
     <td align="center" width="96">
       <a href="#joshmccure-tech">
-        <img src="" width="48" height="48" alt="Mock Service Worker" />
+        <img src="./img/msw.svg" width="48" height="48" alt="Mock Service Worker" />
       </a>
       <br>msw
     </td>
