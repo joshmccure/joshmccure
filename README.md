@@ -27,7 +27,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#joshmccure-tech">
-        <img src="./img/" width="48" height="48" alt="Cypress" />
+        <img src="https://icons-for-free.com/download-icon-cypress-1324440144114984250_0.svg" width="48" height="48" alt="Cypress" />
       </a>
       <br>Cypress
     </td>
