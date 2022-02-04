@@ -39,7 +39,7 @@
     </td>
     <td align="center" width="96">
       <a href="#joshmccure-tech">
-        <img src="./img/testing-library.svg" width="48" height="48" alt="Testing Library" />
+        <img src="./img/testing-library.png" width="48" height="48" alt="Testing Library" />
       </a>
       <br>Testing Library
     </td>
@@ -115,25 +115,25 @@
     </td>
     <td align="center" width="96">
       <a href="#joshmccure-tech" >
-        <img src="./img/" width="48" height="48" alt="React" />
+        <img src="./img/react.svg" width="48" height="48" alt="React" />
       </a>
       <br>React
     </td>
     <td align="center" width="96">
       <a href="#joshmccure-tech">
-        <img src="./img/" width="48" height="48" alt="Node.js" />
+        <img src="./img/nodejs.svg" width="48" height="48" alt="Node.js" />
       </a>
       <br>Node.js
     </td>
     <td align="center"  width="96">
       <a href="#joshmccure-tech">
-        <img src="./img/" width="48" height="48" alt="Prisma" />
+        <img src="./img/prisma.svg" width="48" height="48" alt="Prisma" />
       </a>
       <br>Prisma
     </td>
     <td align="center" width="96">
       <a href="#joshmccure-tech">
-        <img src="./img/" width="48" height="48" alt="Tailwind" />
+        <img src="./img/tailwind.svg" width="48" height="48" alt="Tailwind" />
       </a>
       <br>Tailwind
     </td>
