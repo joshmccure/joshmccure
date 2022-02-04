@@ -7,7 +7,7 @@
   </a>
 
   <a href="https://github.com/joshmccure?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?color=green&logo=github">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/joshmccure?color=green&logo=github">
   </a>
 </p>
 
