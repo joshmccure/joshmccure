@@ -65,7 +65,7 @@
   <tr>
     <td align="center" width="96"> 
       <a href="#joshmccure-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="./img/docker.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
@@ -103,13 +103,13 @@
     <tr>
     <td align="center" width="96">
       <a href="#joshmccure-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="./img/typescript.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
     <td align="center" width="96">
       <a href="#joshmccure-tech">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <img src="./img/javascript.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
