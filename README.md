@@ -51,13 +51,13 @@
     </td>
     <td align="center" width="96">
       <a href="#joshmccure-tech">
-        <img src="" width="48" height="48" alt="Locust" />
+        <img src="./img/locust.png" width="48" height="48" alt="Locust" />
       </a>
       <br>Locust
     </td>
     <td align="center" width="96">
       <a href="#joshmccure-tech" >
-        <img src="" width="48" height="48" alt="A11y" />
+        <img src="./img/a11y.png" width="48" height="48" alt="A11y" />
       </a>
       <br>A11y
     </td>
@@ -77,7 +77,7 @@
     </td>
     <td align="center"  width="96">
       <a href="#joshmccure-tech">
-        <img src="./img/" width="48" height="48" alt="Trivy" />
+        <img src="./img/trivy.png" width="48" height="48" alt="Trivy" />
       </a>
       <br>Trivy
     </td>
@@ -89,13 +89,13 @@
     </td>
     <td align="center" width="96">
       <a href="#joshmccure-tech" >
-        <img src="" width="48" height="48" alt="Seq" />
+        <img src="./img/seq.svg" width="48" height="48" alt="Seq" />
       </a>
       <br>Seq
     </td>
     <td align="center" width="96">
       <a href="#joshmccure-tech" >
-        <img src="" width="48" height="48" alt="Sonarqube" />
+        <img src="./img/sonarqube.svg" width="48" height="48" alt="Sonarqube" />
       </a>
       <br>Sonarqube
     </td>
