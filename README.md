@@ -11,7 +11,7 @@
   </a>
 </p>
 
-- :office: &nbsp;I'm currently working at **[Patient Zero]**
+- :office: &nbsp;I'm currently working at **[Canva]**
 - :seedling: &nbsp;I’m currently learning **Kubernetes**
 - :speech_balloon: &nbsp;I like to talk about **Quality** and **Continuous Delivery**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
@@ -142,6 +142,6 @@
 
 <!-- links -->
 
-[Patient Zero]: https://github.com/PatientZero-AU "Patient Zero Github Home"
+[Canva]: https://github.com/canva "Canva Github Home"
 [issues page]: https://github.com/joshmccure/joshmccure/issues "MacroPower/issues"
 [linkedin]: https://www.linkedin.com/in/joshmccure "Josh McCure LinkedIn"
